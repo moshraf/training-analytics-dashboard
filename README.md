@@ -298,8 +298,8 @@ Completion Rate = DIVIDE([Projects Completed], COUNTROWS(Facts_Development_Proje
   [Training_Analytics_Dashboard_Portfolio.pbix](Training_Analytics_Dashboard_Portfolio.pbix)
 
 - 📁 **Data Files:**  
-  - [Training Delivery Sessions](data/Training_Delivery_Sessions.csv)  
-  - [Training Development Projects](data/Training_Development_Projects.xlsx)
+  - [Training Delivery Sessions](data/Training_Delivery_Sessions.csv)  – CSV format, previewable in GitHub
+  - [Training Development Projects](data/Training_Development_Projects.xlsx) – Excel format (download to view)
 
 - 🖼️ **Dashboard Screenshots:**  
   [View images folder](images/)
@@ -324,4 +324,5 @@ Completion Rate = DIVIDE([Projects Completed], COUNTROWS(Facts_Development_Proje
 ---
 
 **Built with:** Power BI Desktop | DAX | Star Schema Modelling  
+
 **Project Status:** Complete & Portfolio-Ready
